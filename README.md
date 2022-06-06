@@ -1,2 +1,2 @@
-# jane-back-system
-jane基于arco Design Pro的后台管理系统
+# jane-back-system-scui
+jane基于SCUI的后台管理系统
